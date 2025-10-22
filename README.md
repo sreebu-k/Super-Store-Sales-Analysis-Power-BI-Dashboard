@@ -1,12 +1,12 @@
-# 📊 Global Super Store Sales Analysis – Power BI Dashboard
+#  Global Super Store Sales Analysis – Power BI Dashboard
 
-## 🎯 Objective
+##  Objective
 The goal of this project is to analyze and visualize **global sales performance** using the *Superstore dataset* and present key insights through a **Power BI interactive dashboard**.  
 This project is part of my **Data Analyst Internship – Task 2: Data Visualization and Storytelling**.
 
 ---
 
-## 🧩 Dataset
+##  Dataset
 **File Name:** `Superstore.csv`  
 **Description:**  
 The dataset contains order-level sales data from a global superstore, including:
@@ -17,14 +17,14 @@ The dataset contains order-level sales data from a global superstore, including:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Power BI Desktop** – Data cleaning, modeling, and dashboard creation  
 - **Excel / CSV** – Dataset format  
 - **GitHub** – Project documentation and version control  
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 | KPI | Description | Value |
 |-----|--------------|-------|
 | **Total Sales** | Total revenue generated | ₹12.64M |
@@ -37,7 +37,7 @@ The dataset contains order-level sales data from a global superstore, including:
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 The Power BI dashboard provides a complete overview of the Superstore’s performance, focusing on sales, profit, product categories, and regional markets.
 
 ### 🔹 Sales by Country
@@ -68,7 +68,7 @@ The Power BI dashboard provides a complete overview of the Superstore’s perfor
 
 ---
 
-## 💡 Business Insights
+##  Business Insights
 - The **Technology** category drives the highest revenue and profit.  
 - **U.S. and Western Europe** are strong markets contributing significantly to overall performance.  
 - Profitability varies by season, suggesting opportunities for **strategic discounting**.  
@@ -76,7 +76,7 @@ The Power BI dashboard provides a complete overview of the Superstore’s perfor
 
 ---
 
-## 🧠 Conclusion
+##  Conclusion
 This Power BI dashboard delivers a clear picture of sales performance and helps management identify:
 - Profitable regions and products  
 - Seasonal trends affecting sales  
@@ -86,4 +86,3 @@ The analysis supports **data-driven decision-making** for business growth.
 
 ---
 
-## 📁 Repository Structure
