@@ -2,7 +2,6 @@
 
 ##  Objective
 The goal of this project is to analyze and visualize **global sales performance** using the *Superstore dataset* and present key insights through a **Power BI interactive dashboard**.  
-This project is part of my **Data Analyst Internship – Task 2: Data Visualization and Storytelling**.
 
 ---
 
